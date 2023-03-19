@@ -1,1 +1,1 @@
-
+Thyroid prediction models can be built using supervised machine learning techniques, where the model is trained on a dataset of patient records that includes information such as symptoms, laboratory results, and other health factors, along with the final diagnosis of thyroid disease or not.
